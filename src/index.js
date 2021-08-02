@@ -3,8 +3,6 @@ const gym = () => {
   const item = document.getElementById('menu');
 
   menu.addEventListener('click', () => {
-    alert("hi");
-    console.log("???");
       if (item.style.display == 'none') {
           item.style.display = 'block'
       } else {
