@@ -1,8 +1,8 @@
 const gym = () => {
-/*  const manu = document.getElementById('manu-bar');
-  const item = document.getElementById('manu');
+  const menu = document.getElementById('menu-bar');
+  const item = document.getElementById('menu');
 
-  manu.addEventListener('click', () => {
+  menu.addEventListener('click', () => {
     alert("hi");
     console.log("???");
       if (item.style.display == 'none') {
@@ -10,6 +10,6 @@ const gym = () => {
       } else {
           item.style.display = 'none'
       }
-  })*/
+  })
 }
 gym();

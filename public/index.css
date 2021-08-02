@@ -1,4 +1,4 @@
-.manu-bar {
+.menu-bar {
     font-size: 19px;
     padding: 30px 0;
     cursor: pointer;
@@ -9,7 +9,7 @@
     text-align: left;
   }
  
-.manu {
+.menu {
     display: none;
     padding-bottom: 30px;
   }
